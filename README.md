@@ -23,8 +23,8 @@ Included:
 - Consistent formatting for analysis
 - Supporting documentation and notes
 
-📁 Data file: `data/rrpr_index.csv`  
-📄 Documentation: `docs/data_sources.md`
+📁 Data files: `data/rrpr/raw/`  
+📄 Documentation: `data/rrpr/readme.md`
 
 ---
 
@@ -40,8 +40,8 @@ Included fields:
 - Unit count (where publicly available)
 - General price range classification
 
-📁 Data file: `data/condo_completion_2025.csv`  
-📄 Notes: `docs/condo_completion_notes.md`
+📁 Data file: `data/condo/condo_completion_2025.csv`  
+📄 Notes: `data/condo/readme.md`
 
 This dataset is intended for market research and informational use and may be
 expanded or refined as new information becomes available.
