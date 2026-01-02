@@ -1,3 +1,8 @@
+---
+layout: home
+title: Cambodia Real Estate Data
+---
+
 # Cambodia Real Estate Data
 
 This site provides curated datasets and supporting documentation related to
