@@ -1,7 +1,10 @@
 title: Cambodia Real Estate Data
-description: Curated datasets and documentation related to Cambodia’s real estate market
+description: Curated datasets and documentation related to Cambodia’s real estate market, including pricing indices and market aggregates.
 theme: minima
 
 markdown: kramdown
+
+url: https://sirivudh.github.io
+baseurl: /cambodia-real-estate-datasets
 plugins:
   - jekyll-feed
