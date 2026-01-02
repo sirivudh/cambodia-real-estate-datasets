@@ -15,8 +15,7 @@ indicators, aggregated datasets, and research materials become available.
 ### Residential Real Estate Price Index (RRPR)
 
 The Residential Real Estate Price Index (RRPR) dataset contains redistributed
-index data originally published by the
-:contentReference[oaicite:0]{index=0}.
+index data originally published by the National Bank of Cambodia.
 It provides a high-level view of residential property price movements over time.
 
 Included:
