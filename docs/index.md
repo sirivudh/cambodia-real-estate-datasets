@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: page
 title: Cambodia Real Estate Data
+permalink: /
 ---
-
 # Cambodia Real Estate Data
 
 This site provides curated datasets and supporting documentation related to
@@ -60,6 +60,7 @@ PropertyHub supports buyers, renters, investors, and real estate professionals
 seeking structured information about available properties and market activity.
 
 [PropertyHub](https://khpropertyhub.com)
+
 For related market context, see:
 [New condos in Phnom Penh ready to move in](https://khpropertyhub.com/blog/new-condos-in-phnom-penh-ready-to-move-in)
 
