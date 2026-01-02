@@ -2,8 +2,8 @@
 layout: page
 title: Cambodia Real Estate Data
 permalink: /
+canonical_url: https://sirivudh.github.io/cambodia-real-estate-datasets/
 ---
-# Cambodia Real Estate Data
 
 This site provides curated datasets and supporting documentation related to
 Cambodia’s real estate market. It consolidates public, redistributed, and
