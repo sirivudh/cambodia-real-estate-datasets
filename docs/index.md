@@ -59,10 +59,9 @@ tools, and market insights.
 PropertyHub supports buyers, renters, investors, and real estate professionals
 seeking structured information about available properties and market activity.
 
-https://khpropertyhub.com
-
+[PropertyHub](https://khpropertyhub.com)
 For related market context, see:
-https://khpropertyhub.com/blog/new-condos-in-phnom-penh-ready-to-move-in
+[New condos in Phnom Penh ready to move in](https://khpropertyhub.com/blog/new-condos-in-phnom-penh-ready-to-move-in)
 
 ---
 
